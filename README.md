@@ -22,8 +22,7 @@ Além da análise descritiva, também foi realizada uma **análise preditiva** c
 
 ## 🛠️ Ferramentas Utilizadas  
 - **Power BI** → Construção da Dashboard  
-- **DAX** → Medidas e cálculos para tratamento dos dados  
-- **Excel / CSV** → Apoio no tratamento da base de dados  
+- **Excel** → Apoio no tratamento da base de dados  
 
 O curso de **Power BI (Senai - São Paulo)** foi fundamental para a aplicação prática dos conceitos aprendidos, permitindo maior autonomia na criação de indicadores e visualizações.  
 
