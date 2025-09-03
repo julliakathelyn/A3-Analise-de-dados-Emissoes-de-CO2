@@ -44,3 +44,39 @@ A Dashboard permite:
 
 ## 👥 Equipe  
 Projeto desenvolvido em grupo como parte do trabalho avaliativo da UC de Análise de Dados.  
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/julliakathelyn">
+        <img src="https://github.com/julliakathelyn.png" width="100px;" alt="Jullia Kathelyn"/>
+        <br />
+        <sub><b> :octocat: Jullia Kathelyn</b></sub>
+      </a>
+      <br />
+      <br />
+      <a href="https://www.linkedin.com/in/jullia-kathelyn/">🔗 LinkedIn</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kauassilva">
+        <img src="https://github.com/kauassilva.png" width="100px;" alt="Kauã Silva"/>
+        <br />
+        <sub><b>:octocat: Kauã Silva</b></sub>
+      </a>
+      <br />
+      <br />
+      <a href="https://www.linkedin.com/in/kaua-santos">🔗 LinkedIn</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AmandaMeneghini">
+        <img src="https://github.com/AmandaMeneghini.png" width="100px;" alt="Mayan"/>
+        <br />
+        <sub><b>:octocat: Amanda Meneghini</b></sub>
+      </a>
+      <br />
+      <br />
+      <a href="https://www.linkedin.com/in/amanda-meneghini">🔗 LinkedIn</a>
+    </td>
+  </tr>
+  <tr>
+    <table/>
