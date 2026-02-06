@@ -7,6 +7,9 @@ A proposta foi utilizar dados reais e tratá-los de forma que fosse possível ex
 
 ---
 
+![App Screenshot](dash.png)
+
+
 ## 📂 Base de Dados  
 - **Fonte:** SEEG (Sistema de Estimativas de Emissões de Gases de Efeito Estufa)  
 - **Período analisado:** 2013 a 2023  
