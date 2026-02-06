@@ -1,6 +1,5 @@
-# 📊 Trabalho Avaliativo - UC de Análise de Dados  
+# 📊 UC de Análise de Dados - Emissões de Gases de Efeito Estufa
 
-## 📌 Descrição do Projeto  
 Este projeto foi desenvolvido em grupo, como parte da disciplina de **Análise de Dados**. O objetivo foi a criação de uma **Dashboard no Power BI** para analisar informações relacionadas aos **gases do efeito estufa**, com foco em **mudanças de uso da terra**.  
 
 A proposta foi utilizar dados reais e tratá-los de forma que fosse possível extrair insights relevantes, possibilitando uma análise visual clara e objetiva sobre o tema.  
